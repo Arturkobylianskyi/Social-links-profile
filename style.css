@@ -55,14 +55,14 @@ body {
     margin-bottom: 2rem;
 }
 
-ul {
+.social-links {
     list-style: none;
     display: flex;
     flex-direction: column;
     gap: 1rem;
 }
 
-ul li a { 
+.social-links a { 
     display: block;
     padding: 1rem;
     text-align: center;
@@ -73,7 +73,8 @@ ul li a {
     color: hsl(0, 0%, 100%);
 }
 
-ul li a:hover, ul li a:focus {
+.social-links a:hover,
+.social-links a:focus {
     background-color: hsl(75, 94%, 57%);
     color: hsl(0, 0%, 20%);
 }
