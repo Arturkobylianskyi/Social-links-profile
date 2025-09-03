@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://arturkobylianskyi.github.io/Social-links-profile/)
+- Live Site URL: [live site URL here](https://arturkobylianskyi.github.io/Social-links-profile/)
 
 ### Built with
 
